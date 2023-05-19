@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileHandle</string>
+    <string name="enter_text_here">Enter Text Here</string>
+    <string name="store">STORE</string>
+    <string name="append">APPEND</string>
+    <string name="display">DISPLAY</string>
+</resources>
